@@ -13,3 +13,7 @@ d'un autre royaume car elle était plus belle qu'elle
 -un beau matin la princesse fait appel à son royaume et lança une guerre contre la sorciére
 
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> d399c034d939dc17e765f691f145b154e55c6965
