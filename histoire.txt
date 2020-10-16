@@ -1,9 +1,16 @@
 - il était une fois au royaume de Tartenpion une sorcière qui aime les beaux garçons
 - Elle captura le prince charmant pour l'emprisonner et empêcher son mariage avec la princesse
 d'un autre royaume car elle était plus belle qu'elle  
+<<<<<<< HEAD
 - Du coup la princesse décida de sauver son futur marie et enfila une armure pour combattre la sorcière || La princesse se dit quelle trouvera un autre prince tant pis pour celui là 
 - le prince Charmant enfermé dans un donjon gardé par un dragon attendait sa princesse guerrière.
 - La princesse attaqua le dragon || À la vue du dragon la princesse se dégonfle et rentre chez elle.
 - La princesse tue le dragon et libère le prince || Le prince charmant se marie avec la sorcière 
 - Le mariage eu lieu le prince peut enfin se taper la princesse tous les soirs || la sorcière comblée devient gentille avec tout le monde sauf avec le prince charmant qu'elle réduit en esclavage
 
+=======
+- Du coup la princesse décida de sauver son futur marie et enfila une armure pour combattre la sorcière
+-un beau matin la princesse fait appel à son royaume et lança une guerre contre la sorciére
+
+
+>>>>>>> branch_1
