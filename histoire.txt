@@ -1,7 +1,6 @@
-- il était une fois au royaume de Tartenpion
-<<<<<<< HEAD
-une sorcière qui aime les beaux garçons
-- Elle captura le prince charmant pour 
-=======
-une sorciére qui aime les beaux garçons
->>>>>>> branch_1
+- il était une fois au royaume de Tartenpion une sorcière qui aime les beaux garçons
+- Elle captura le prince charmant pour l' emprisonné et empêcher son mariage avec la princesse
+d'un autre royaume car elle était plus belle qu'elle  
+
+
+
